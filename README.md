@@ -9,17 +9,6 @@
 - **Visualizar la lista**: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 - **Sorteo aleatorio**: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
-## Capturas de Pantalla 📸
-
-### Agregar nombres
-![Agregar nombres](screenshots/add-name.png)
-
-### Lista de nombres
-![Lista de nombres](screenshots/name-list.png)
-
-### Resultado del sorteo
-![Resultado del sorteo](screenshots/draw-result.png)
-
 ## Instalación y Ejecución 🚀
 
 ### Requisitos
